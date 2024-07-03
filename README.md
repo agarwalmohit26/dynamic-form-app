@@ -22,7 +22,7 @@ This project is a dynamic form creator that allows users to create and fill out 
 
 ## Screenshots
 
-![Create Form Interface](.\public\Screenshot.png)
+![Create Form Interface](Screenshot.png)
 
 ### Prerequisites
 
